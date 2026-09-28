@@ -1,5 +1,4 @@
 node_modules
-.env
 .idea
 
 # Hardhat files
@@ -30,3 +29,8 @@ issues_to_created_contract.md
 
 # HH3 typechain output
 /types
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
